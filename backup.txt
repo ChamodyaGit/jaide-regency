@@ -239,3 +239,83 @@
             </div>
         </div>
     </section>
+
+        <!-- Exclusive Offers Section -->
+    <section class="offer-section section-padding">
+        <div class="container">
+            <div class="blog-head-area mb-50 d-flex align-items-end justify-content-between gap-3 flex-wrap">
+                <div class="section-title">
+                    <span class="sub-font wow fadeInUp">Exclusive Offers</span>
+                    <h2 class="fw-semibold wow fadeInUp" data-wow-delay=".3s">
+                        Make your stay extra special with our exclusive packages
+                    </h2>
+                </div>
+                <h3 class="black-clr fw-bold d-none">
+                    <span class="text-decoration-underline">Get 25% Discount</span>
+                    <span class="fw-500">on Cultural<br>Tour Packages with<br>3+ Night Stays.</span>
+                </h3>
+            </div>
+            <div class="row g-md-4 g-4 mb-50">
+                <div class="col-md-6 col-lg-3">
+                    <div class="offer-single-item wow fadeInUp" data-wow-delay=".4s">
+                        <div class="content">
+                            <h5 class="sub-font fw-normal white-clr">Cultural</h5>
+                            <h3 class="fs-32 heading-font white-clr mb-xxl-4 mb-xl-3 mb-3">
+                                <a href="#" class="fw-semibold white-clr">
+                                    Cultural Tour Package
+                                </a>
+                            </h3>
+                            <a href="#" class="theme-btn fw-normal text-capitalize gap-1 py-3"
+                                style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3);">GET
+                                25% OFF with 3+ Night Stays</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="offer-single-item style2 wow fadeInUp" data-wow-delay=".4s">
+                        <div class="content">
+                            <h5 class="sub-font fw-normal white-clr">Dining</h5>
+                            <h3 class="fs-32 heading-font white-clr mb-xxl-4 mb-xl-3 mb-3">
+                                <a href="#" class="fw-semibold white-clr">Sri Lankan<br> Cuisine Package</a>
+                            </h3>
+                            <a href="#" class="theme-btn fw-normal text-capitalize gap-1 py-3"
+                                style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3);">GET
+                                25% OFF</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="offer-single-item style3 wow fadeInUp" data-wow-delay=".6s">
+                        <div class="content">
+                            <h5 class="sub-font fw-normal white-clr">Wellness</h5>
+                            <h3 class="fs-32 heading-font white-clr mb-xxl-4 mb-xl-3 mb-3">
+                                <a href="#" class="fw-semibold white-clr">Ayurveda<br> Spa Package</a>
+                            </h3>
+                            <a href="#" class="theme-btn fw-normal text-capitalize gap-1 py-3"
+                                style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3);">GET
+                                25% OFF</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="offer-single-item style4 wow fadeInUp" data-wow-delay=".8s">
+                        <div class="content">
+                            <h5 class="sub-font fw-normal white-clr">Cultural</h5>
+                            <h3 class="fs-32 heading-font white-clr mb-xxl-4 mb-xl-3 mb-3">
+                                <a href="#" class="fw-semibold white-clr">Heritage Discovery Package</a>
+                            </h3>
+                            <a href="#" class="theme-btn fw-normal text-capitalize gap-1 py-3"
+                                style="background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.3);">GET
+                                25% OFF</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="text-center">
+                <p class="mb-3 text-black">
+                    Tailored experiences await to enrich your journey in Kandy.
+                </p>
+                <a href="#" class="theme-btn fw-normal text-capitalize gap-1 px-6">Discover Packages</a>
+            </div>
+        </div>
+    </section>
